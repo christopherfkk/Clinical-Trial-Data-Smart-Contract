@@ -1,5 +1,5 @@
 ## Clinical Trial Data Use Case
-This use case secures the data progression of clinical trial data, using Phala Network's Fat Contract framework to deploy an ink! smart contract. 
+This application secures the data progression of clinical trial data. It ensures the collection, pre-processing, and statistical analysis of these data are not tampered with retrospectively. It runs on the Phala blockchain, using a Rust backend (Phala Network's Fat Contract framework) and a Javascript React frontend. 
 
 ## Overview
 Clinical trials are conducted in more decentralized manners because 1) patient mobility is restricted during COVID-19, and 2) a higher patient diversity is demanded to increase the generalizability of results. 
